@@ -1,4 +1,4 @@
-# 🌈✨ VOGUE DISTRICT | Fashion Beyond Trends 💃
+# ✨ VOGUE DISTRICT | Fashion Beyond Trends 💃
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fashion-Style%20%26%20Elegance-ff69b4?style=for-the-badge">
@@ -23,13 +23,13 @@ Vogue District is a stylish and modern fashion website created for fashion lover
 
 ---
 
-## 🧁 Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
-| 🧡 HTML5 | Website Structure |
-| 💜 CSS3 | Styling & Animations |
-| 💛 JavaScript | Interactive Functionality |
+|  HTML5 | Website Structure |
+|  CSS3 | Styling & Animations |
+|  JavaScript | Interactive Functionality |
 
 ---
 
